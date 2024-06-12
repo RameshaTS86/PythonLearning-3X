@@ -17,3 +17,5 @@ if(First_Number < Second_Number):
 if(First_Number == Second_Number):
     print("First Number is Equal to Second Number")
 
+
+print("Square of the Number is : ",int(input("Please Enter the Number"))**2)

@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9578cdcc-8778-4321-9471-fc840f6d1d28" name="Changes" comment="Commit02">
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task002.py" afterDir="false" />
+    <list default="true" id="9578cdcc-8778-4321-9471-fc840f6d1d28" name="Changes" comment="Commit 10_06 Task">
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task002_OneLineCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task001_Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task002_Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task003_LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task004_FabSeries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_03062024/Lab002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_05062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_05062024/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Task002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Task002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,13 @@
     "Python.Lab001.executor": "Debug",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Task001_Triangle.executor": "Run",
     "Python.Task002.executor": "Run",
+    "Python.Task002_Factorial.executor": "Run",
+    "Python.Task002_OneLineCode.executor": "Run",
+    "Python.Task003_LeapYear.executor": "Run",
+    "Python.Task004_FabSeries.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -99,12 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717925758996</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit 10_06 Task">
+      <option name="closed" value="true" />
+      <created>1717992880309</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717992880309</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit01" />
     <MESSAGE value="Commit02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit02" />
+    <MESSAGE value="Commit 10_06 Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 10_06 Task" />
   </component>
 </project>
