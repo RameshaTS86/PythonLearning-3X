@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9578cdcc-8778-4321-9471-fc840f6d1d28" name="Changes" comment="Commit 10_17 Labs">
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task001_Triangle_Star_Print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task002_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task003_Vowel_Count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task004_String_Reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task005_Anagrams.py" afterDir="false" />
+    <list default="true" id="9578cdcc-8778-4321-9471-fc840f6d1d28" name="Changes" comment="Commit 06_21 Task Submission">
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +78,8 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task005_Anagrams">
-    <configuration name="Task001_Triangle_Star_Print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab004">
+    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task001_Triangle_Star_Print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task002_Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task002_Palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task003_Vowel_Count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task003_Vowel_Count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task004_String_Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task004_String_Reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task005_Anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task005_Anagrams.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Lab007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task005_Anagrams" />
-        <item itemvalue="Python.Task004_String_Reverse" />
-        <item itemvalue="Python.Task001_Triangle_Star_Print" />
-        <item itemvalue="Python.Task003_Vowel_Count" />
-        <item itemvalue="Python.Task002_Palindrome" />
+        <item itemvalue="Python.Lab004" />
+        <item itemvalue="Python.Lab003" />
+        <item itemvalue="Python.Lab002" />
+        <item itemvalue="Python.Lab001" />
+        <item itemvalue="Python.Lab007" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718592348096</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit 06_21 Task Submission">
+      <option name="closed" value="true" />
+      <created>1718972737211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718972737211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,7 +280,8 @@
     <MESSAGE value="Commit 10_06 Task" />
     <MESSAGE value="Commit 10_12 Task" />
     <MESSAGE value="Commit 10_17 Labs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 10_17 Labs" />
+    <MESSAGE value="Commit 06_21 Task Submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 06_21 Task Submission" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
