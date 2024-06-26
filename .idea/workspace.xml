@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9578cdcc-8778-4321-9471-fc840f6d1d28" name="Changes" comment="Commit 06_21 Task Submission">
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab004.py" afterDir="false" />
+    <list default="true" id="9578cdcc-8778-4321-9471-fc840f6d1d28" name="Changes" comment="Commit 06_25 Submission">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -271,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718972737211</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit 06_25 Submission">
+      <option name="closed" value="true" />
+      <created>1719336924729</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719336924729</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,7 +284,8 @@
     <MESSAGE value="Commit 10_12 Task" />
     <MESSAGE value="Commit 10_17 Labs" />
     <MESSAGE value="Commit 06_21 Task Submission" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 06_21 Task Submission" />
+    <MESSAGE value="Commit 06_25 Submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 06_25 Submission" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
