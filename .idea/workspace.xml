@@ -4,8 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9578cdcc-8778-4321-9471-fc840f6d1d28" name="Changes" comment="Commit 06_25 Submission">
+    <list default="true" id="9578cdcc-8778-4321-9471-fc840f6d1d28" name="Changes" comment="Commit 06_26 Submission">
+      <change afterPath="$PROJECT_DIR$/API_Automation_Testing/Ex_22072024/Test_Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Automation_Testing/Ex_24072024/Test_Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Automation_Testing/Ex_24072024/Test_Lab002_CURD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Automation_Testing/Ex_26072024/Lab_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Automation_Testing/Ex_26072024/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab006_FIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Ramesh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05072024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05072024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05072024/Testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/FindSubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Practice/Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Practice/Inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_26062024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,37 +76,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001 (1).executor": "Run",
-    "Python.Lab001 (2).executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002 (1).executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003 (1).executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Task001_Triangle.executor": "Run",
-    "Python.Task001_Triangle_Star_Print.executor": "Run",
-    "Python.Task002.executor": "Run",
-    "Python.Task002_Factorial.executor": "Run",
-    "Python.Task002_OneLineCode.executor": "Run",
-    "Python.Task002_Palindrome.executor": "Run",
-    "Python.Task003_LeapYear.executor": "Run",
-    "Python.Task003_Vowel_Count.executor": "Run",
-    "Python.Task004_FabSeries.executor": "Run",
-    "Python.Task004_String_Reverse.executor": "Run",
-    "Python.Task005_Anagrams.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Test_Lab001.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_Lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_FIO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task001_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task001_Triangle_Star_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task002_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task002_OneLineCode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task002_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task003_LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task003_Vowel_Count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task004_FabSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task004_String_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task005_Anagrams.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Lab004">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests in Test_Lab001.py">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
@@ -83,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_05072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_05072024/Lab001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_05072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_05072024/Lab002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab008.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,57 +180,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for API_Automation_Testing.Ex_22072024.Test_Lab001.test_addition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_Automation_Testing/Ex_22072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab004.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;API_Automation_Testing.Ex_22072024.Test_Lab001.test_addition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in Test_Lab001.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning-3X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_Automation_Testing/Ex_22072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Lab007.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/API_Automation_Testing/Ex_22072024/Test_Lab001.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab004" />
-        <item itemvalue="Python.Lab003" />
+        <item itemvalue="Python tests.Python tests in Test_Lab001.py" />
+        <item itemvalue="Python tests.Python tests for API_Automation_Testing.Ex_22072024.Test_Lab001.test_addition" />
         <item itemvalue="Python.Lab002" />
         <item itemvalue="Python.Lab001" />
-        <item itemvalue="Python.Lab007" />
+        <item itemvalue="Python.Lab008" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719336924729</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit 06_26 Submission">
+      <option name="closed" value="true" />
+      <created>1719365288531</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719365288531</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -285,7 +319,8 @@
     <MESSAGE value="Commit 10_17 Labs" />
     <MESSAGE value="Commit 06_21 Task Submission" />
     <MESSAGE value="Commit 06_25 Submission" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 06_25 Submission" />
+    <MESSAGE value="Commit 06_26 Submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 06_26 Submission" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,6 +374,10 @@
           <url>file://$PROJECT_DIR$/Ex_12062024/Task002_Factorial.py</url>
           <line>4</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_26062024/Lab005.py</url>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
